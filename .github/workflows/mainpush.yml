@@ -1,4 +1,4 @@
-name: mainpush
+name: mainpush1
 
 on:
   push:
