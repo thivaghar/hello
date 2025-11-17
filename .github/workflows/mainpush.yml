@@ -1,7 +1,7 @@
 name: mainpush1
 
 on:
-  push:
+  push
 
 jobs:
   hello:
